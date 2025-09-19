@@ -1,0 +1,69 @@
+{
+  "table": "genre",
+  "data": [
+    {
+      "id": 1,
+      "name": "Drama"
+    },
+    {
+      "id": 2,
+      "name": "Crime"
+    },
+    {
+      "id": 3,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 4,
+      "name": "Thriller"
+    },
+    {
+      "id": 5,
+      "name": "Action"
+    },
+    {
+      "id": 6,
+      "name": "Adventure"
+    },
+    {
+      "id": 7,
+      "name": "Black Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Animation"
+    },
+    {
+      "id": 9,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10,
+      "name": "Horror"
+    },
+    {
+      "id": 11,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Social Commentary"
+    },
+    {
+      "id": 13,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Romance"
+    },
+    {
+      "id": 15,
+      "name": "Coming‑of‑Age"
+    },
+    {
+      "id": 16,
+      "name": "Musical"
+    }
+  ]
+}

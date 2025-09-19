@@ -1,0 +1,295 @@
+{
+  "table": "movie_genres",
+  "data": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "genreId": 1
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "genreId": 2
+    },
+    {
+      "id": 3,
+      "movieId": 2,
+      "genreId": 3
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "genreId": 4
+    },
+    {
+      "id": 5,
+      "movieId": 2,
+      "genreId": 5
+    },
+    {
+      "id": 6,
+      "movieId": 2,
+      "genreId": 6
+    },
+    {
+      "id": 7,
+      "movieId": 3,
+      "genreId": 2
+    },
+    {
+      "id": 8,
+      "movieId": 3,
+      "genreId": 1
+    },
+    {
+      "id": 9,
+      "movieId": 4,
+      "genreId": 2
+    },
+    {
+      "id": 10,
+      "movieId": 4,
+      "genreId": 1
+    },
+    {
+      "id": 11,
+      "movieId": 4,
+      "genreId": 4
+    },
+    {
+      "id": 12,
+      "movieId": 5,
+      "genreId": 7
+    },
+    {
+      "id": 13,
+      "movieId": 5,
+      "genreId": 4
+    },
+    {
+      "id": 14,
+      "movieId": 5,
+      "genreId": 1
+    },
+    {
+      "id": 15,
+      "movieId": 6,
+      "genreId": 5
+    },
+    {
+      "id": 16,
+      "movieId": 6,
+      "genreId": 2
+    },
+    {
+      "id": 17,
+      "movieId": 6,
+      "genreId": 1
+    },
+    {
+      "id": 18,
+      "movieId": 6,
+      "genreId": 4
+    },
+    {
+      "id": 19,
+      "movieId": 7,
+      "genreId": 8
+    },
+    {
+      "id": 20,
+      "movieId": 7,
+      "genreId": 9
+    },
+    {
+      "id": 21,
+      "movieId": 7,
+      "genreId": 6
+    },
+    {
+      "id": 22,
+      "movieId": 8,
+      "genreId": 10
+    },
+    {
+      "id": 23,
+      "movieId": 8,
+      "genreId": 4
+    },
+    {
+      "id": 24,
+      "movieId": 8,
+      "genreId": 11
+    },
+    {
+      "id": 25,
+      "movieId": 8,
+      "genreId": 12
+    },
+    {
+      "id": 26,
+      "movieId": 9,
+      "genreId": 13
+    },
+    {
+      "id": 27,
+      "movieId": 9,
+      "genreId": 1
+    },
+    {
+      "id": 28,
+      "movieId": 9,
+      "genreId": 6
+    },
+    {
+      "id": 29,
+      "movieId": 10,
+      "genreId": 3
+    },
+    {
+      "id": 30,
+      "movieId": 10,
+      "genreId": 1
+    },
+    {
+      "id": 31,
+      "movieId": 10,
+      "genreId": 6
+    },
+    {
+      "id": 32,
+      "movieId": 11,
+      "genreId": 14
+    },
+    {
+      "id": 33,
+      "movieId": 11,
+      "genreId": 13
+    },
+    {
+      "id": 34,
+      "movieId": 11,
+      "genreId": 1
+    },
+    {
+      "id": 35,
+      "movieId": 12,
+      "genreId": 3
+    },
+    {
+      "id": 36,
+      "movieId": 12,
+      "genreId": 4
+    },
+    {
+      "id": 37,
+      "movieId": 12,
+      "genreId": 11
+    },
+    {
+      "id": 38,
+      "movieId": 12,
+      "genreId": 1
+    },
+    {
+      "id": 39,
+      "movieId": 13,
+      "genreId": 1
+    },
+    {
+      "id": 40,
+      "movieId": 13,
+      "genreId": 15
+    },
+    {
+      "id": 41,
+      "movieId": 14,
+      "genreId": 9
+    },
+    {
+      "id": 42,
+      "movieId": 14,
+      "genreId": 6
+    },
+    {
+      "id": 43,
+      "movieId": 14,
+      "genreId": 1
+    },
+    {
+      "id": 44,
+      "movieId": 15,
+      "genreId": 14
+    },
+    {
+      "id": 45,
+      "movieId": 15,
+      "genreId": 3
+    },
+    {
+      "id": 46,
+      "movieId": 15,
+      "genreId": 1
+    },
+    {
+      "id": 47,
+      "movieId": 16,
+      "genreId": 5
+    },
+    {
+      "id": 48,
+      "movieId": 16,
+      "genreId": 6
+    },
+    {
+      "id": 49,
+      "movieId": 16,
+      "genreId": 3
+    },
+    {
+      "id": 50,
+      "movieId": 17,
+      "genreId": 14
+    },
+    {
+      "id": 51,
+      "movieId": 17,
+      "genreId": 16
+    },
+    {
+      "id": 52,
+      "movieId": 17,
+      "genreId": 1
+    },
+    {
+      "id": 53,
+      "movieId": 18,
+      "genreId": 3
+    },
+    {
+      "id": 54,
+      "movieId": 18,
+      "genreId": 5
+    },
+    {
+      "id": 55,
+      "movieId": 18,
+      "genreId": 4
+    },
+    {
+      "id": 56,
+      "movieId": 19,
+      "genreId": 4
+    },
+    {
+      "id": 57,
+      "movieId": 19,
+      "genreId": 10
+    },
+    {
+      "id": 58,
+      "movieId": 19,
+      "genreId": 2
+    }
+  ]
+}
